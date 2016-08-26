@@ -1,0 +1,132 @@
+/*my style custom*/
+html, body{
+	font-family: 'Open Sans', sans-serif;
+}
+.main {
+	padding: 60px 0px 60px;
+	    background:  url('../images/bg.jpeg') repeat center center;
+	    background-size: cover;
+	    max-width: 100%;
+	}
+
+.main h1.principal{
+	text-transform: uppercase;
+	color:#FFF;
+	padding-bottom: 40px;
+}
+.main p.text{
+	color:#FFF;
+	padding-bottom: 20px;
+}
+
+.secundary{
+	background: #E6F8E0;
+	text-align: center;
+	padding-bottom: 30px;
+}
+
+.medium{
+	border: dotted 2px #D8D8D8;
+}
+
+.medium p.variant{
+	padding-top:20px;
+}
+
+.content-text{
+	position: absolute;
+	margin-top: 40px;
+	width: 400px;
+	height: 200px;
+	float:left;
+}
+.content-form{
+	position: relative;
+	margin-top: 40px;
+	width: 400px;
+	height: 200px;
+	float:right;
+}
+
+.float-picture{
+	float: left;
+	width: 200px;
+	height: 100px;
+	border-radius: 10px;
+}
+
+h5{
+
+}
+.nav .nav-tabs-custom{
+	background: transparent;
+}
+
+.img-second{
+	width:250px; 
+	height:200px;
+}
+
+
+.col-md-12{
+	text-align: center;
+	
+}
+
+.btn-custom{
+	
+}
+
+.img-content{
+	display: block;
+	text-align: center;
+	width: 225px;
+	height: 200px;
+}
+.img-absolute{
+	display: block;
+	border-radius: 50px;
+}
+
+
+.img-absolute{
+	border-radius: 50px;
+	float: left;
+}
+
+.img-logo{
+	width: 90px;
+	height:50px;
+	display: block;
+	text-align: center
+}
+
+.box-relative{
+	position: absolute;
+	margin-top: 40px;
+	max-width: 1200px;
+	
+	height: 100px;
+	padding-left: 10px;
+	padding-top: 30px;
+	padding-right: 10px;
+	border-radius: 10px;
+	}
+		
+.box-absolute{
+	position: relative ;
+	left: 400px;
+	background-size: cover;
+	border-radius: 50px;
+}
+
+.container .section-content{
+	background:red;
+}
+
+
+.footer{
+	background: black;
+}
+
+
